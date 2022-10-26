@@ -1,0 +1,18 @@
+{
+  "name": "tn14-node-pratica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "helloWorld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pratica",
+    "node"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cpf-cnpj-validator": "^1.0.3"
+  }
+}
